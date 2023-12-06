@@ -1,0 +1,1 @@
+select EmployeeID, firstname, lastname, title from employees where Title like '%manager%';
